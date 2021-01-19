@@ -1,0 +1,22 @@
+.p1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.alert-warning {
+    color: #000000;
+    background-color: #00ffbf;
+    border-color: #000000;
+}
+.bg-secondary {
+    background-color: #ffc31d !important;
+    color: red;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #ff0001;
+}
+.btn1{
+    border-radius: 30px;
+    background-color: rgb(255, 40, 226);
+}
